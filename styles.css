@@ -1,0 +1,46 @@
+.homepage{
+  background-color: #E1F1F2;
+}
+
+.uppersection{
+  text-align: center;
+}
+
+.MyName{
+  font-family:cursive;
+  font-size: 40px;
+}
+
+.welcome{
+  font-family: cursive;
+  font-size: 20px;
+}
+
+.iama{
+  font-family: 'Satisfy', cursive;
+  font-size: 30px;
+}
+
+.middlesection{
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+}
+
+.alliedag{
+  text-align: center;
+}
+
+.agriculture{
+  background-color: #E1F2E9;
+  font-family: cursive;
+  text-align: center;
+}
+.flex-container{
+  display: flex;
+  flex-wrap: nowrap;
+}
+.flex-container>div{
+  width: 500px;
+  margin: 20px;
+  line-height: 75px;
+}
